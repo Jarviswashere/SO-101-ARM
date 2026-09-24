@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+__pycache__/
+*.pyc
+outputs/
+*.safetensors
+*.ckpt
+*.pt
+*.parquet
+media/*.mp4
+media/*.mov
+media/*.MP4
